@@ -10,7 +10,7 @@
 Here’s a glimpse of the app’s main dashboard interface:
 
 ![App Dashboard]("C:\Users\vishn\Downloads\Dashboard.png")
----
+<img width="931" height="439" alt="Dashboard" src="https://github.com/user-attachments/assets/dd47db85-9aff-4f92-aa1a-01aea70d681e" />
 
 ## ⚙️ Application Workflow and Features
 
